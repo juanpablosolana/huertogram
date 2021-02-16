@@ -1,12 +1,15 @@
-import React from 'react';
+import React,{Suspense} from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+// import { projectAuth } from './firebase/config';
 
 ReactDOM.render(
   <React.StrictMode>
+    <Suspense fallback='conectando...'>
     <App />
+    </Suspense>
   </React.StrictMode>,
   document.getElementById('root')
 );

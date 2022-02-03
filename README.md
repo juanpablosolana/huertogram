@@ -4,14 +4,15 @@ El huerto urbano como experimento por pandemia
 
 ## Comenzando 🚀
 
-Poducción huertogram.com <-vercel->
-Develop develop.huertogram.com <-netlify->
-Mira **Deployment** para conocer como desplegar el proyecto.
 
+El sitio principal se encuentra en huertogram.com <- vercel
+El sitio de develop se encuentra en develop.huertogram.com <- netlify
+
+Mira **Deployment** para conocer como desplegar el proyecto.
 
 ### Pre-requisitos 📋
 
-_Que cosas necesitas para instalar el software y como instalarlas_
+Node
 
 ```
 node -v

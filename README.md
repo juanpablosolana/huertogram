@@ -1,6 +1,6 @@
-# Título del Proyecto
+# Huertogram
 
-Huertogram
+El huerto urbano como experimento por pandemia
 
 ## Comenzando 🚀
 
